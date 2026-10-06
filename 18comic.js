@@ -155,5 +155,5 @@ class ComicSource18Comic extends ComicSource {
     }
 }
 
-ComicSource.sources["18comic.vip"] =
+ComicSource.sources["18comic"] =
     new ComicSource18Comic()
