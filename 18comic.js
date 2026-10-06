@@ -1,6 +1,6 @@
 class ComicSource18Comic extends ComicSource {
     name = "18Comic"
-    key = "18comic.vip"
+    key = "18comic"
     version = "1.0.2"
     minAppVersion = "1.16.0"
     url = "https://raw.githubusercontent.com/Tobeinlovewith/veneranext-source/main/18comic.js"
